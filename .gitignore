@@ -24,3 +24,10 @@
 
 # 包含.gitignore文件本身
 !.gitignore
+
+# 包含README.md文件
+!README.md
+
+# 包含docs文件夹
+!docs/
+!docs/**
